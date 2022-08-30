@@ -1,3 +1,4 @@
-#hello world
+#hello world x100
 
-print("hello world")
+for _ in range(100):
+    print("hello world")
